@@ -1,0 +1,5 @@
+device_name,ip,device_type,username
+Router1,192.168.1.1,cisco_ios,admin
+Switch1,192.168.1.2,cisco_ios,admin
+
+
